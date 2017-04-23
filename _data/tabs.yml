@@ -1,0 +1,12 @@
+# **NOTE**
+# 1. Empty strings are truthy.
+
+- id: tab-test
+  name: projects
+  fp: tab/test.html
+  disabled: true
+
+- id: tab-test1
+  name: diasbled-2
+  fp: tab/test1.html
+  disabled: true
